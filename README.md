@@ -21,7 +21,8 @@ You can watch this video where I build this app from the ground up so that you c
 
 8. **Transferring to Users within the MySQL Database**: Users can transfer funds to other registered users.
 
-## Getting Started
+
+![Bank App Logo](https://github.com/curadProgrammer/BankAppJava/blob/main/Screenshot_16.png)
 
 ### Technologies
 
